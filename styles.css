@@ -1,0 +1,25 @@
+.header, .paragraph {
+  font-family: 'Roboto Slab', serif;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 40px;
+  letter-spacing: 1.5px;
+}
+
+.paragraph {
+  line-height: 2;
+}
+
+.translation {
+  font-family: Garamond, serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 0.5em;
+}
+
+.fg-word {
+  font-variant: small-caps;
+  font-style: normal;
+}
